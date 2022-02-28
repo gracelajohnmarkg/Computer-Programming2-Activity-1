@@ -11,7 +11,7 @@ public static void main(String [] args) {
   
  
   //String CandyMachine[] = {"Apple Candy", "Bcandy", "Ex-o", "Fresh", "Frutos", "Guava java", "Gummy bear", "Judges", "Maxx", "Snowbear", "V-fresh"};
-  //String Price[] = {"2", "5", "1", "1", "1", "1", "1", "10", "1", "1", "1"};
+  //String Price[] = {"30", "20", "24", "34", "20", "30", "50", "15", "15", "56", "30"};
   
   System.out.println("CandyMachine Items!");
   
